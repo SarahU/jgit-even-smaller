@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.junit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.junit/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.test/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.test/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.ui/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit.ui/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.jgit/src" charset="UTF-8" />
+  </component>
+</project>

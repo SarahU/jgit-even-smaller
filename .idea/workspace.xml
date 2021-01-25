@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c524f239-5e9d-4d45-b66c-2e9c611eec79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_junit_ssh_5_3_0_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sshd_sshd_core_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sshd_sshd_sftp_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_11_v20180605.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_3_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_pgm_5_3_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/org.eclipse.jgit.junit.http.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/AccessEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/AppServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/HttpTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/MockServletConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/RecordingLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/SimpleHttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.http/src/org/eclipse/jgit/junit/http/TestRequestLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/org.eclipse.jgit.junit.ssh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.junit.ssh/src/org/eclipse/jgit/junit/ssh/SshTestGitServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/org.eclipse.jgit.lfs.server.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/CheckoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/DownloadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/LfsServerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/PushTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server.test/tst/org/eclipse/jgit/lfs/server/fs/UploadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.fbprefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/org.eclipse.jgit.lfs.server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/resources/org/eclipse/jgit/lfs/server/internal/LfsServerText.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/LargeFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/LfsObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/LfsProtocolServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/TransferHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/fs/FileLfsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/fs/FileLfsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/fs/ObjectDownloadListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/fs/ObjectUploadListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/internal/LfsGson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/internal/LfsServerText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/s3/S3Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/s3/S3Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.server/src/org/eclipse/jgit/lfs/server/s3/SignerV4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/org.eclipse.jgit.lfs.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/src/org/eclipse/jgit/lfs/test/LongObjectIdTestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/AbbreviatedLongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LFSPointerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LfsPointerFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/LongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs.test/tst/org/eclipse/jgit/lfs/lib/MutableLongObjectIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.fbprefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.core.runtime.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.mylyn.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/BUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/org.eclipse.jgit.lfs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/plugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/resources/org/eclipse/jgit/lfs/internal/LfsText.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/BuiltinLFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/CleanFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/InstallBuiltinLfsCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/Lfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/LfsBlobFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/LfsBlobLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/LfsPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/LfsPrePushHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/Protocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/SmudgeFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/CorruptLongObjectException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/CorruptMediaFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/InvalidLongObjectIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsBandwidthLimitExceeded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsConfigInvalidException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsInsufficientStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsRateLimitExceeded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsRepositoryNotFound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsRepositoryReadOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsUnauthorized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsUnavailable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/errors/LfsValidationError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/internal/AtomicObjectOutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/internal/LfsConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/internal/LfsText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/AbbreviatedLongObjectId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/AnyLongObjectId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/LfsPointerFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/LongObjectId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.lfs/src/org/eclipse/jgit/lfs/lib/MutableLongObjectId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.test/org.eclipse.jgit.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestHarness.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.eclipse.jgit.test/src/org/eclipse/jgit/transport/ssh/SshTestHarness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="f2yxwhoo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nZOEZUm38Jl0JHz9JvHuxrVl9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c524f239-5e9d-4d45-b66c-2e9c611eec79" name="Default Changelist" comment="" />
+      <created>1611594036970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611594036970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="349" key="GridCell.Tab.0.bottom" timestamp="1611602320973">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611602320973" />
+    <state width="1878" height="349" key="GridCell.Tab.0.center" timestamp="1611602320969">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611602320969" />
+    <state width="1878" height="349" key="GridCell.Tab.0.left" timestamp="1611602320967">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611602320967" />
+    <state width="1878" height="349" key="GridCell.Tab.0.right" timestamp="1611602320971">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="349" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611602320971" />
+    <state x="2290" y="202" key="Maven.ArtifactSearchDialog" timestamp="1611594688517">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2290" y="202" key="Maven.ArtifactSearchDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611594688517" />
+  </component>
+</project>
